@@ -12,7 +12,7 @@ This project conducts a comprehensive comparison analysis of Airbnb listings acr
 - Pune: A growing educational and cultural hub, known for its pleasant climate and youthful energy.
 - Mumbai: The financial capital of India, famous for its bustling lifestyle, film industry, and diverse population.
 
-**Problem Statement*
+### Problem Statement
 
 Dataset containing information of airbnb listing sites. The dataset includes the following details:
 
@@ -23,13 +23,13 @@ Dataset containing information of airbnb listing sites. The dataset includes the
 - Reviews
 - Place
 
-**Objectives:*
+### Objectives:
 
 - Market Insights: Analyze pricing trends, availability, and amenities across different cities to understand the dynamics of the Airbnb market.
 - Data Integrity: Ensuring the data collected is clean and consistent for meaningful analysis.
 - Comparative Analysis: Effectively comparing listings across diverse cities with differing cultural and economic backgrounds.
 
-**Challenges:*
+### Challenges:
 
 - Data Collection: Navigating the complexities of web scraping to gather comprehensive and accurate data from multiple listings.
 - Data Integrity: Ensuring the data collected is clean and consistent for meaningful analysis.
