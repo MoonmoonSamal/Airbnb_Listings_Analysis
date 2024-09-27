@@ -2,7 +2,7 @@
 
 This dataset was scraped using Selenium for a project focused on data analysis with Python and Power BI.
 
-**About Project*
+##About Project
 
 This project conducts a comprehensive comparison analysis of Airbnb listings across different Indian cities:
 
